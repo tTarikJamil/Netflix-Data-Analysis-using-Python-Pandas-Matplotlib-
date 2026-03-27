@@ -1,5 +1,5 @@
 # Netflix-Data-Analysis-using-Python-Pandas-Matplotlib-
-# 📊 Netflix Data Analysis Project
+# Netflix Data Analysis Project
 
 ## Project Overview
 
